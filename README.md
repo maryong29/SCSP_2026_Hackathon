@@ -66,5 +66,5 @@ Future Improvements
 Why this matters
 As AI infrastructure scales, energy demand will become one of the biggest bottlenecks. This project demonstrates how AI itself can be used to make energy systems more resilient, efficient, and sustainable.
 
-Author
+Author:
 Lizzie Ong
