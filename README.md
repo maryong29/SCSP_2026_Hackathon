@@ -55,6 +55,7 @@ streamlit run app.py
 - Pandas / NumPy
 - Reinforcement Learning (Q-learning)
 - Streamlit for UI
+- Used a simulated dataset. I started with a simulated environment to rapidly prototype and validate the RL strategy. This lets us test extreme scenarios like grid stress events, which are harder to capture in static datasets.
 
 Future Improvements
 - Real-time grid data integration
